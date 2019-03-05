@@ -5,7 +5,7 @@ var data = {
         lRef: "https://www.iep.utm.edu/anci-mod/",
     
         rTitle: "What is Artificial Intelligence?",
-        rSummary: 'According to the father of Artificial Intelligence, John McCarthy, it is "The science and engineering of making intelligent machines, especially intelligent computer programs".',
+        rSummary: 'This article introduces readers to the concept of AI and touches on several existing applications. It distinguishes between machine learning and AI in a broader sense also talks about issues of bias in AI. The article gives an overview of the big names in AI and what the future might hold.',
         rRef: "https://hackernoon.com/a-laymans-guide-to-artificial-intelligence-ai-8a81b372c68d",
     
         
