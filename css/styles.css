@@ -1,0 +1,37 @@
+.title {
+    font-family: "Overpass";
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    color: black;
+}
+
+.title:hover {
+    color: gray;
+    transition: color 0.3s ease-in;
+}
+
+.subtitle {
+    font-family: "Overpass";
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    color: black;
+}
+.subtitle:hover {
+    color: gray;
+    transition: color 0.3s ease-in;
+}
+
+
+.title:visited, .subtitle:visited { 
+    color: #888;
+}
