@@ -1,8 +1,8 @@
 var data = {
     1: {
         lTitle: "What is Modern Ethics?",
-        lSummary: "Something something",
-        lRef: "yahoo.com",
+        lSummary: "In a world increasingly focused on globalization, ethics has taken a shift from focusing on individual morality to also including societal behaviors and patterns. This article focuses on the ethical considerations which have been added to public discourse in regard to advancements in technology.",
+        lRef: "https://www.iep.utm.edu/anci-mod/",
     
         rTitle: "What is Artificial Intelligence?",
         rSummary: 'According to the father of Artificial Intelligence, John McCarthy, it is "The science and engineering of making intelligent machines, especially intelligent computer programs".',
@@ -10,15 +10,15 @@ var data = {
     
         
         lSubtitle: "Find Out More: Modern Ethics",
-        lDescr: "Lorem ipsum dolor est",
+        lDescr: "How do new beliefs about ethics differ from ancient studies? How has technology played a role?",
         lLink: 2,
        
-        mSubtitle: "Automation",
+        mSubtitle: "How Do Ethics and AI ",
         mDescr: "Lorem ipsum dolor est",
         mLink: 2,
     
         rSubtitle: "Find Out More: Artificial Intelligence",
-        rDescr: "Lorem ipsum dolor est",
+        rDescr: "What are some of the capabilities of AI? Do these match up with expectations from literature and science fiction?",
         rLink: 2
     }, 
     
